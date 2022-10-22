@@ -1,0 +1,2 @@
+# megasena
+Simulações de Megasena
